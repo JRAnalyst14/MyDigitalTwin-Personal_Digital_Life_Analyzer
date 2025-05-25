@@ -1,0 +1,10 @@
+os
+datetime
+PyMySQL
+numpy
+pandas
+matplotlib
+seaborn
+statistics
+fpdf
+collections
